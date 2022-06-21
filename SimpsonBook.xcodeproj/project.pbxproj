@@ -14,6 +14,7 @@
 		3EBBEA022861D0AD0067F60E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3EBBEA012861D0AD0067F60E /* Assets.xcassets */; };
 		3EBBEA052861D0AD0067F60E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3EBBEA032861D0AD0067F60E /* LaunchScreen.storyboard */; };
 		3EBBEA0D2861D2690067F60E /* DetailsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EBBEA0C2861D2690067F60E /* DetailsVC.swift */; };
+		3EBBEA0F2861F47A0067F60E /* Simpson.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3EBBEA0E2861F47A0067F60E /* Simpson.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		3EBBEA042861D0AD0067F60E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3EBBEA062861D0AD0067F60E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3EBBEA0C2861D2690067F60E /* DetailsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsVC.swift; sourceTree = "<group>"; };
+		3EBBEA0E2861F47A0067F60E /* Simpson.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Simpson.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				3EBBE9FA2861D0AC0067F60E /* SceneDelegate.swift */,
 				3EBBE9FC2861D0AC0067F60E /* ViewController.swift */,
 				3EBBEA0C2861D2690067F60E /* DetailsVC.swift */,
+				3EBBEA0E2861F47A0067F60E /* Simpson.swift */,
 				3EBBE9FE2861D0AC0067F60E /* Main.storyboard */,
 				3EBBEA012861D0AD0067F60E /* Assets.xcassets */,
 				3EBBEA032861D0AD0067F60E /* LaunchScreen.storyboard */,
@@ -145,6 +148,7 @@
 				3EBBEA0D2861D2690067F60E /* DetailsVC.swift in Sources */,
 				3EBBE9F92861D0AC0067F60E /* AppDelegate.swift in Sources */,
 				3EBBE9FB2861D0AC0067F60E /* SceneDelegate.swift in Sources */,
+				3EBBEA0F2861F47A0067F60E /* Simpson.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
